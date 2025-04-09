@@ -1,6 +1,6 @@
 import React from "react";
 import "./Home.css";
-import NavigationBar from "../../components/NavigationBar";
+import NavigationBar from "../../components/navigation-bar/NavigationBar";
 
 const Home = (): React.ReactNode => {
   return (

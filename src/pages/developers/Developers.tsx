@@ -2,7 +2,7 @@ import React from "react";
 
 import "./Developers.css";
 import { useNavigate } from "react-router";
-import NavigationBar from "../../components/NavigationBar";
+import NavigationBar from "../../components/navigation-bar/NavigationBar";
 
 const Developers = (): React.ReactNode => {
   const navigate = useNavigate();
